@@ -1,38 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+About Chronia
 
-## Getting Started
+Chronia is a simple and easy-to-use focus timer app that helps you stay productive and focused during your work or study sessions. The app is designed to help you break your work into manageable intervals and give yourself regular breaks to recharge and refocus.
+How It Works
 
-First, run the development server:
+Chronia uses the popular Pomodoro Technique to help you manage your time and focus better. The technique is based on the idea of breaking your work into 25-minute intervals (called "pomodoros") and giving yourself a short break (usually 5 minutes) between each interval. After every 4 pomodoros, you can take a longer break (usually 15-30 minutes) to rest and recharge.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Chronia makes it easy to follow this technique by providing a simple and customizable timer that counts down each pomodoro and break interval. You can set the duration of each interval and adjust the number of pomodoros and breaks to fit your work style and schedule.
+Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    Simple and easy-to-use timer interface
+    Adjustable pomodoros and breaks
+    Sound notifications to alert you when each interval ends
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Why Use Chronia
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Chronia is a great tool for anyone who wants to stay focused and productive during their work or study sessions. The app provides a simple and effective way to break your work into manageable intervals and give yourself regular breaks to rest and recharge.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+By using Chronia, you can:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    Improve your focus and concentration
+    Increase your productivity and efficiency
+    Reduce stress and burnout
+    Build better work habits and routines
