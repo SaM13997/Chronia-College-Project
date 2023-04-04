@@ -55,7 +55,7 @@ function Countdown() {
 			) : (
 				<>
 					{time === 0 ? (
-						<p>"Time is up!"</p>
+						<p>Time is up!</p>
 					) : (
 						<h2 className="countdownTimer">
 							{minutes}:{seconds}
